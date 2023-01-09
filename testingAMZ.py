@@ -51,11 +51,3 @@ for documents_batch in grouper(documents, 10):
              'neutral' : neutral_confidence, 'negative' : neg_confidence})
         
 
-
-
-
-
-        
-
-
-
